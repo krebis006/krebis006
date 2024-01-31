@@ -1,6 +1,6 @@
 ### Hi, my name's Gustavo Junio and I'm studying Information Systems at UEMG  👋
 ##
-<div style="display: inline_block">
+<div style="display: inline_block" align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=krebis006&show_icons=true&theme=tokyonight" />
 </a>
